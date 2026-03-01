@@ -7,6 +7,11 @@ of the Virtualization and Cloud Computing course.
 - Startup script for VM instance
 - Architecture diagram
 - Assignment documentation
+- Demo (link present in the documentation)
+## Architecture Diagram
+
+![Architecture Diagram](./architecture_diagram.png)
+
 
 ## Cloud Platform
 Google Cloud Platform (GCP)
